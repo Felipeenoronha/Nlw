@@ -5,7 +5,7 @@
 >Trilha Explorer
 
 Projeto construído no evento da Rocketseat.
- [Clique aqui para acessar](https://felipeenoronha.github.io/nlw)
+ [Clique aqui para acessar](https://github.com/Felipeenoronha/Nlw)
 
 
 ## Tecnologias
