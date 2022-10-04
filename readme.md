@@ -1,6 +1,6 @@
 # NlW 
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 >Trilha Explorer
 
